@@ -1,0 +1,3 @@
+/Users/edemmutalup/Desktop/Algorithms/Контест 6/cmake-build-debug/CMakeFiles/_6.dir
+/Users/edemmutalup/Desktop/Algorithms/Контест 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edemmutalup/Desktop/Algorithms/Контест 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/edemmutalup/Desktop/Контесты по алгоритмам/Контест 6/problem_/cmake-build-debug/CMakeFiles/problem_.dir
+/Users/edemmutalup/Desktop/Контесты по алгоритмам/Контест 6/problem_/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edemmutalup/Desktop/Контесты по алгоритмам/Контест 6/problem_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
